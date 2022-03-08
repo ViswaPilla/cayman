@@ -1,10 +1,7 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Viswa Sampreethi Pilla
 
-[Link to another page](./another-page.html).
+[LinkedIn](https://www.linkedin.com/in/viswa-sampreethi-pilla-047354a2/).[GitHub](https://github.com/ViswaPilla).
 
 There should be whitespace between paragraphs.
 
